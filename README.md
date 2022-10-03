@@ -1,5 +1,5 @@
 
-[![Codewars](https://www.codewars.com/users/Mzzqq/badges/large)](https://www.codewars.com/users/Mzzqq/)
+[![Codewars](https://www.codewars.com/users/Mzzqq/badges/small)](https://www.codewars.com/users/Mzzqq/)
 <br/>
 ![Profile views](https://komarev.com/ghpvc/?username=Mzzqq&color=blue)
 <br/>
