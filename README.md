@@ -1,4 +1,4 @@
-<a href="https://www.codewars.com/users/Mzzqq/">
+
 ![Codewars](https://www.codewars.com/users/Mzzqq/badges/large)
 <br/>
 ### On my way, 1 Kyu ikzzz🏃🏃🏃
