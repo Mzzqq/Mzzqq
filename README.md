@@ -1,6 +1,5 @@
 
-<a href="https://www.codewars.com/users/Mzzqq/badges/large">
-OMW 1 Kyu!
+There is nothing here, Go away!
 
 <!--
 **Mzzqq/Mzzqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
