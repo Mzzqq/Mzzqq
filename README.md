@@ -1,4 +1,4 @@
-![Codewars](https://www.codewars.com/users/Mzzqq/badges/large)](https://www.codewars.com/users/Mzzqq/badges/large)
+![Codewars](https://www.codewars.com/users/Mzzqq/badges/large)
 On my way, 1 Kyu ikzzz🏃🏃🏃
 
 <!--
