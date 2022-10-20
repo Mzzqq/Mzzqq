@@ -2,7 +2,7 @@
 [![Codewars](https://www.codewars.com/users/Mzzqq/badges/small)](https://www.codewars.com/users/Mzzqq/)
 ![Profile views](https://komarev.com/ghpvc/?username=Mzzqq&color=blue)
 <br/>
-## On my way, 1 Kyu ikzzz🏃🏃🏃
+### On my way, 1 Kyu ikzzz🏃🏃🏃
 
 <!--
 **Mzzqq/Mzzqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
