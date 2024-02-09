@@ -32,7 +32,7 @@
   
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
   
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rezarifa664@gmail.com@gmail.com)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rizkyfr@mzzqq.me)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)]()
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)]()
