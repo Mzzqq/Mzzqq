@@ -41,4 +41,4 @@
 
 
 [![GitHub Mzzqq](https://img.shields.io/github/followers/Mzzqq?label=follow&style=social&logoColor=black)](https://github.com/Mzzqq)
-![Github Profil Views](https://komarev.com/ghpvc/?username=Mzzqq)  
+![Github Profil Views](https://komarev.com/ghpvc/?username=Mzzqq&color=blue)  
