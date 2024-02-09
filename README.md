@@ -8,7 +8,7 @@
 
 - 📱 Backend Developer.
 - 💻 I’m currently working on ❤️Django 🐍Python ❤️Go ❤️Firebase ❤️Rest API ❤️Google Cloud
-- 👯 I’m looking to collaborate on Back
+- 👯 I’m looking to collaborate on Backend
 - 🤔 I’m looking for help with Client-side scripting
 - 💬 Ask me about kotlin, java, firebase, room, Rest Api
 
