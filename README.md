@@ -8,7 +8,7 @@
 
 - 📱 Backend Developer.
 - 💻 I’m currently working on ❤️Django 🐍Python ❤️Go ❤️Firebase ❤️Rest API ❤️Google Cloud ❤️gRPC
-- 👯 I’m looking to collaborate on Backend
+- 👯 I’m looking for girlfriend, 2D if possible
 - 🤯 I ❤️ DSA and Problem solving,
 - 💬 Ask me about Go, Python, Rest API, GCP, gRPC, Django
 
