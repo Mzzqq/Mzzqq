@@ -4,7 +4,7 @@
   <img src="https://github.com/Mzzqq/Mzzqq/blob/main/assets/march7th.gif"/>
 </p>
 
-### It's me, Reza 👩‍💻💻
+### It's me, Reza 👨‍💻💻
 
 - 📱 Backend Developer.
 - 💻 I’m currently working on ❤️Django 🐍Python ❤️Go ❤️Firebase ❤️Rest API ❤️Google Cloud ❤️gRPC
