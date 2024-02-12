@@ -5,7 +5,7 @@
 </p>
 
 ### It's me, Reza 👨‍💻💻
-[![My Skills](https://skillicons.dev/icons?i=django,gcp,python,go,graphql,solidity,&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,gcp,aws,python,go,solidity,graphql,docker,&perline=10&theme=dark)](https://skillicons.dev)
 
 - ☁️ Backend Developer.
 - 👫 I’m looking for girlfriend, 2D if possible
