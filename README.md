@@ -15,9 +15,11 @@
 ## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
 
 ![Mzzqq's Stats](https://github-readme-stats.vercel.app/api?username=Mzzqq&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzzqq&layout=compact&theme=nightowl)
+
 ![Mzzqq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mzzqq&theme=nightowl&hide_border=false)
-  
+
 ![Mzzqq's Trophy](https://github-profile-trophy.vercel.app/?username=Mzzqq&theme=dracula&row=2&column=4)
  
   </div>
