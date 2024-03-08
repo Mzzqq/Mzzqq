@@ -7,6 +7,7 @@
 ### It's me, Reza 👨‍💻💻
 [![My Skills](https://skillicons.dev/icons?i=django,gcp,aws,python,go,solidity,graphql,docker,&perline=10&theme=dark)](https://skillicons.dev)
 
+![](https://moe-counter.glitch.me/get/@:Mzzqq?theme=rule34)
 - ☁️ Backend Developer.
 - 👫 I’m looking for girlfriend, 2D if possible
 - 💫 I love DSA and Problem solving,
