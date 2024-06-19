@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/Mzzqq/Mzzqq/blob/main/assets/Mumei.gif"/>
+  <img src="https://github.com/Mzzqq/Mzzqq/blob/main/assets/watching.gif"/>
 </p>
 
 ### It's me, Reza 👨‍💻💻
