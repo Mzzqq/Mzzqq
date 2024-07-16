@@ -9,6 +9,7 @@
 
 ![](https://moe-counter.glitch.me/get/@:Mzzqq?theme=rule34)
 - ☁️ Backend Developer.
+- 💼 Ex-Core Team GDSC UNSIKA (Web Backend)
 - 👫 I’m looking for girlfriend, 2D if possible
 - 💫 I love DSA and Problem solving,
 - 💬 Ask me about backend development
