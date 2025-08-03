@@ -9,7 +9,6 @@
 
 ![](https://moe-counter.glitch.me/get/@:Mzzqq?theme=rule34)
 - ☁️ Backend Developer.
-- 👫 I’m looking for girlfriend, 2D if possible
 - 💫 I love DSA and Problem solving,
 - 💬 Ask me about backend development
 
