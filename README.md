@@ -20,7 +20,7 @@
 
 ![Mzzqq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mzzqq&theme=nightowl&hide_border=false)
 
-![Mzzqq's Trophy](https://github-profile-trophy.vercel.app/?username=Mzzqq&theme=dracula&row=2&column=4)
+![Mzzqq's Trophy](https://github-profile-trophy-unserori.vercel.app/?username=Mzzqq&theme=dracula&row=2&column=4)
  
   </div>
    
