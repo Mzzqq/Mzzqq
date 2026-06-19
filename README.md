@@ -7,7 +7,7 @@
 ### It's me, Reza 👨‍💻💻
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,gcp,aws,python,go,solidity,graphql,docker,&perline=10&theme=dark)](https://skillicons.dev)
 
-![](https://count.getloli.com//get/@:Mzzqq?theme=rule34)
+![](https://count.getloli.com/get/@:Mzzqq?theme=rule34)
 - ☁️ Backend Developer.
 - 💫 I love DSA and Problem solving,
 - 💬 Ask me about backend development
